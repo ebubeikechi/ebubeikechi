@@ -1,4 +1,4 @@
-<h1>Hi, I'm EbubeIkechi <br/><a href="https://github.com/ebubeikechi">Developer</a> & <a href="www.linkedin.com/in/ebube-ikechi/">Settlement Specialist</a>
+<h1>Hi, I'm EbubeIkechi <br/><a href="https://github.com/ebubeikechi">Developer</a> & <a href="https://www.linkedin.com/in/ebube-ikechi/">Settlement Specialist</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
@@ -14,7 +14,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: www.linkedin.com/in/ebube-ikechi
+[linkedin]: https://www.linkedin.com/in/ebube-ikechi
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
